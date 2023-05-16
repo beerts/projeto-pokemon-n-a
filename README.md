@@ -1,0 +1,3 @@
+# project-list-pokemon
+
+PROJETO NÃO COMPLETO, APENAS ERRO DE IMAGEM NA TROCA DE TEMA.
